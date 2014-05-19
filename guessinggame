@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title> game </title>
+  </head>
+  
+  <body>
+    <script>
+      var a = prompt("Enter your name:");
+      
+      document.write("heelo " + a);
+    </script>
